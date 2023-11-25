@@ -1,3 +1,5 @@
+#heads or tails
+
 import random
 
 random_side = random.randint(0,1)
